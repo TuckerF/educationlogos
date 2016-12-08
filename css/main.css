@@ -1,0 +1,147 @@
+h1 {
+	color: red;
+	width: 400px;
+	margin: 25px auto 25px auto;
+}
+
+.exitbutton {
+	border: black solid 1px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	height: 26px;	
+	color: black;
+	background-color: white;
+	width: 160px;
+	display: inline-block;
+	cursor: default;
+	margin-top: -1px;
+	margin-left: -1px;
+}
+
+.inputs {
+	border: black solid 1px;
+	font-size: 1.2rem;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 1px;
+	height: 25px;	
+	color: black;
+	width: 160px;
+	display: inline-block;
+	cursor: default;
+}
+
+.input {
+	border: black solid 1px;
+	font-size: 1rem;
+	text-align: center;
+	padding-top: 7px;
+	height: 25px;	
+	color: black;
+	width: 160px;
+	cursor: default;
+	background-color: #C9C9C9;
+}
+
+.black {
+	background-color: black;
+	color: white;
+	border: white 1px solid;
+}
+
+.grey {
+	background-color: #C9C9C9;
+	color: black;
+}
+
+#form1 {
+	position: absolute;
+	display:none;
+	margin-left: 468px;
+	margin-top: 4px;
+}
+
+#form2	 {
+	position: absolute;
+	display:none;
+	margin-left: 634px;
+	margin-top: 4px;
+}
+
+.search {
+	border: black solid 1px;
+	text-align: center;
+	padding-top: 5px;
+	height: 23px;	
+	color: black;
+	width: 160px;
+	margin: 76px auto 0 auto;
+	border-radius: 10px;
+	cursor: default;
+}
+
+.search:hover {
+	background-color: grey;
+}
+
+#search1 {
+	position: absolute;
+	display: none;
+}
+#search2 {
+	position: absolute;
+	display: none;
+}
+#search3 {
+	position: absolute;
+	display: none;
+}
+#search4 {
+	position: absolute;
+	display: none;
+}
+
+#wrapper {
+	text-align: center;
+}
+
+.formcontainer {
+	display: inline-block;
+}
+
+.media {
+	height: 60px;
+	width: 100px;
+	display: inline-block;
+	margin:0 15px 0 20px;
+}
+
+.container {
+	text-align: center;
+	margin-top:40px;
+}
+
+.aci-color {
+	background-image: url(../media/aci-color.png);
+}
+
+.aci-fade {
+	background-image: url(../media/aci-fade.png);
+}
+
+.acm-color {
+	background-image: url(../media/acm-color.png);
+}
+
+.acm-fade {
+	background-image: url(../media/acm-fade.png);
+}
+
+.afe-color {
+	background-image: url(../media/AFE-color.png);
+}
+
+.afe-fade {
+	background-image: url(../media/AFE-fade.png);
+}
